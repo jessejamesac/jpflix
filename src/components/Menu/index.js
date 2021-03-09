@@ -1,6 +1,5 @@
 import React from 'react';
 import Logo from '../../assets/img/logo.png';
-import Button from '../Button';
 import ButtonLink from '../ButtonLink';
 import './Menu.css';
 
